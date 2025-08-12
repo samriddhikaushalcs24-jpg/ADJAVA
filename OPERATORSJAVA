@@ -1,0 +1,16 @@
+public class Main {
+    
+    public static void main(String[] args) {
+        
+       Scanner sc=new Scanner(System.in);
+       int c= sc.nextInt();
+       int d= sc.nextInt();
+       int sum=c+d;
+       int diff=c-d;
+       int mul=c*d;
+       int div=c/d;
+       System.out.println(sum);
+        System.out.println(diff);
+        System.out.println(mul);
+        System.out.println(div);}}
+
