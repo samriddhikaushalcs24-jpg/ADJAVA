@@ -1,0 +1,8 @@
+public class Main {
+    //static variable
+    public static void main(String[] args) {
+        //int c=6; //local variable
+        Scanner sc=new Scanner(System.in);
+        String a=sc. next();
+       String b=sc.next();
+       System.out.println("range:" + Byte.MIN_VALUE + "to" + Byte.MAX_VALUE);
